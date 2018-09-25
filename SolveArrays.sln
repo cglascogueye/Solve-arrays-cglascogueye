@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolveArrays", "SolveArrays\SolveArrays.csproj", "{7E50AFBC-E815-4168-BCCE-3A5874B97B7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolveArrays.Tests", "SolveArrays.Tests\SolveArrays.Tests.csproj", "{0422BB9D-E8B0-49AE-A07E-E9A63454274C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7E50AFBC-E815-4168-BCCE-3A5874B97B7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E50AFBC-E815-4168-BCCE-3A5874B97B7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E50AFBC-E815-4168-BCCE-3A5874B97B7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0422BB9D-E8B0-49AE-A07E-E9A63454274C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0422BB9D-E8B0-49AE-A07E-E9A63454274C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0422BB9D-E8B0-49AE-A07E-E9A63454274C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0422BB9D-E8B0-49AE-A07E-E9A63454274C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
